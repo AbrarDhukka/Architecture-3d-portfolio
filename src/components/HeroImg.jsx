@@ -47,7 +47,6 @@ const HeroImg = () => {
         model.position.set(1, 1, 0);
         model.scale.set(0.01, 0.01, 0.01);
         scene.add(model);
-
         mixer = new THREE.AnimationMixer(model);
         mixer.clipAction(gltf.animations[0]).play();
 
