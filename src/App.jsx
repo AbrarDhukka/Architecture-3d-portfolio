@@ -15,7 +15,6 @@ function App() {
         <ambientLight></ambientLight>
         <OrbitControls></OrbitControls>
         <Suspense fallback={null}>
-        
           <Scene></Scene>
         </Suspense>
       </Canvas>
