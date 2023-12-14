@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
 import logo from "../assets/Logo.png";
 import search from "../assets/Search.png"

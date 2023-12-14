@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bungalow Moderno di Design (con interni)
+* source:	https://sketchfab.com/3d-models/bungalow-moderno-di-design-con-interni-4ebc0b341f9e450aaed594974b0fe46c
+* author:	Pikkart Srl (https://sketchfab.com/pikkartsrl)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bungalow Moderno di Design (con interni)" (https://sketchfab.com/3d-models/bungalow-moderno-di-design-con-interni-4ebc0b341f9e450aaed594974b0fe46c) by Pikkart Srl (https://sketchfab.com/pikkartsrl) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
