@@ -32,8 +32,8 @@ const WorkCards = () => {
           className="text-gray-700 text-center font-Jost text-base font-normal leading-6 tracking-tight mt-5"
           style={{ letterSpacing: "0.22px" }}
         >
-          There are many variations of the passages of lorem Ipsum from 
-available, majority.
+          There are many variations of the passages of lorem Ipsum from
+          available, majority.
         </p>
         <p className="mt-6 underline">Read more </p>
       </div>

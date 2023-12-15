@@ -20,7 +20,7 @@ const Model = () => {
           fromavailable, majority.
         </p>
         <button className="bg-slate-700 text-white rounded-2xl px-12 py-5 text-lg mt-6">
-          Get Started 
+          Get Started
         </button>
       </div>
       <BunglowCanvas></BunglowCanvas>
