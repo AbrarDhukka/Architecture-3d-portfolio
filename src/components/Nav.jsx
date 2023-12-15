@@ -5,7 +5,7 @@ import search from "../assets/Search.png"
 
 const Nav = () => {
   return (
-    <div className='w-[1200px]  flex items-center justify-between gap-[399px] mt-[15px]'>
+    <div className='w-[1200px]  flex items-center justify-between gap-[399px] mt-[15px] flex-wrap'>
     <div className='flex gap-2'>
     <img src={logo} alt='logo' className='w-[33.9px] h-[34px]'></img>
     <p className='text-gray-800 font-serif text-4xl font-normal leading-tight'>
