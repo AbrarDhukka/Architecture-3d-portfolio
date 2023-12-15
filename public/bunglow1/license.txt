@@ -1,6 +1,6 @@
 Model Information:
-* title:	Modern luxury villa house building with pool
-* source:	https://sketchfab.com/3d-models/modern-luxury-villa-house-building-with-pool-1e36279ffc4e43c997c627cfa41752f0
+* title:	Modern luxury villa house building
+* source:	https://sketchfab.com/3d-models/modern-luxury-villa-house-building-2a07a4a90ae54dd6bba3e33862b266ef
 * author:	saeedakbari (https://sketchfab.com/saakbary64)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Modern luxury villa house building with pool" (https://sketchfab.com/3d-models/modern-luxury-villa-house-building-with-pool-1e36279ffc4e43c997c627cfa41752f0) by saeedakbari (https://sketchfab.com/saakbary64) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Modern luxury villa house building" (https://sketchfab.com/3d-models/modern-luxury-villa-house-building-2a07a4a90ae54dd6bba3e33862b266ef) by saeedakbari (https://sketchfab.com/saakbary64) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
