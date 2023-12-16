@@ -23,19 +23,27 @@ const Cta = () => {
       <div className="absolute top-[450px] left-0 right-0 bg-slate-200 opacity-80 p-12 w-full rounded-3xl z-10">
         <div className="flex justify-center items-center m-auto">
           <div className="w-[20%] flex flex-col justify-center items-center">
-            <p className="text-black font-bold font-dm-serif-display text-5xl leading-125 tracking-wider">12</p>
+            <p className="text-black font-bold font-dm-serif-display text-5xl leading-125 tracking-wider">
+              12
+            </p>
             <p className="text-xl">Years of Experience</p>
           </div>
           <div className="w-[20%] flex flex-col justify-center items-center">
-            <p className="text-black font-bold font-dm-serif-display text-5xl leading-125 tracking-wider">85</p>
+            <p className="text-black font-bold font-dm-serif-display text-5xl leading-125 tracking-wider">
+              85
+            </p>
             <p className="text-xl">Success Project</p>
           </div>
           <div className="w-[20%] flex flex-col justify-center items-center">
-            <p className="text-black font-bold font-dm-serif-display text-5xl leading-125 tracking-wider">15</p>
+            <p className="text-black font-bold font-dm-serif-display text-5xl leading-125 tracking-wider">
+              15
+            </p>
             <p className="text-xl">Projects</p>
           </div>
           <div className="w-[20%] flex flex-col justify-center items-center">
-            <p className="text-black font-bold font-dm-serif-display text-5xl leading-125 tracking-wider">96</p>
+            <p className="text-black font-bold font-dm-serif-display text-5xl leading-125 tracking-wider">
+              96
+            </p>
             <p className="text-xl">Happy Customers</p>
           </div>
         </div>
