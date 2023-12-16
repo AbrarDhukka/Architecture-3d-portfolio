@@ -3,6 +3,7 @@ import React from "react";
 import Bunglow1Canvas from "./canvas/Bunglow1";
 import Bunglow2Canvas from "./canvas/Bunglow2";
 import Bunglow3Canvas from "./canvas/Bunglow3";
+import Bunglow4Canvas from "./canvas/Bunglow4";
 
 const Projects = () => {
   return (
@@ -22,7 +23,7 @@ const Projects = () => {
           of readable content of page lookings at its layouts points.
         </p>
       </div>
-      <div className="w-[46%] h-[550px] bg-slate-200 rounded-3xl">
+      <div className="w-[46%] h-[550px] bg-slate-100 rounded-3xl">
         <Bunglow1Canvas></Bunglow1Canvas>
         <div className="bg-slate-700 text-white -mt-28 flex items-center flex-col">
         <p className="z-30 font-serif font-bold text-2xl">Modern luxury villa house building</p>
@@ -30,7 +31,7 @@ const Projects = () => {
         <a className="z-30 hover:underline" href="https://sketchfab.com/saakbary64" target="_blank" rel="noreferrer">Author - Saeedakbari</a>
         </div>
       </div>
-      <div className="w-[46%] h-[550px] bg-slate-200 rounded-3xl">
+      <div className="w-[46%] h-[550px] bg-slate-100 rounded-3xl">
         <Bunglow2Canvas></Bunglow2Canvas>
         <div className="bg-slate-700 text-white -mt-28 flex items-center flex-col">
         <p className="z-30 font-serif font-bold text-2xl">Modern luxury villa house building</p>
@@ -38,7 +39,7 @@ const Projects = () => {
         <a className="z-30 hover:underline" href="https://sketchfab.com/saakbary64" target="_blank" rel="noreferrer">Author - Saeedakbari</a>
         </div>
       </div>
-      <div className="w-[46%] h-[550px] bg-slate-200 rounded-3xl">
+      <div className="w-[46%] h-[550px] bg-black rounded-3xl">
         <Bunglow3Canvas></Bunglow3Canvas>
         <div className="bg-slate-700 text-white -mt-28 flex items-center flex-col">
         <p className="z-30 font-serif font-bold text-2xl">Cozy Modern Living Room</p>
@@ -46,7 +47,14 @@ const Projects = () => {
         <a className="z-30 hover:underline" href="https://sketchfab.com/dylanheyes" target="_blank" rel="noreferrer">Author - Dylanheyes</a>
         </div>
       </div>
-      <div className="w-[46%] h-[550px] bg-slate-200 rounded-3xl"></div>
+      <div className="w-[46%] h-[550px] bg-black rounded-3xl">
+        <Bunglow4Canvas></Bunglow4Canvas>
+        <div className="bg-slate-700 text-white -mt-28 flex items-center flex-col">
+        <p className="z-30 font-serif font-bold text-2xl">Beach restaurant</p>
+        <a className="cursor-pointer z-30 hover:underline" target="_blank" rel="noreferrer" href="https://sketchfab.com/3d-models/beach-restaurant-4c249b79c79d41e697fa7e4e0a895007">Source - Sketchfab</a>
+        <a className="z-30 hover:underline" href="https://sketchfab.com/AndresMora1" target="_blank" rel="noreferrer">Author - AndresMoral</a>
+        </div>
+      </div>
     </div>
   );
 };

@@ -3,6 +3,7 @@ import Nav from "./components/Nav";
 import Model from "./components/Model";
 import WorkCards from "./components/WorkCards";
 import Projects from "./components/Projects";
+import Cta from "./components/Cta";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Model></Model>
       <WorkCards></WorkCards>
       <Projects></Projects>
+      <Cta></Cta>
     </div>
   );
 }
