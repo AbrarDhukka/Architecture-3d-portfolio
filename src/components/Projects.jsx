@@ -2,6 +2,7 @@
 import React from "react";
 import Bunglow1Canvas from "./canvas/Bunglow1";
 import Bunglow2Canvas from "./canvas/Bunglow2";
+import Bunglow3Canvas from "./canvas/Bunglow3";
 
 const Projects = () => {
   return (
@@ -23,11 +24,28 @@ const Projects = () => {
       </div>
       <div className="w-[46%] h-[550px] bg-slate-200 rounded-3xl">
         <Bunglow1Canvas></Bunglow1Canvas>
+        <div className="bg-slate-700 text-white -mt-28 flex items-center flex-col">
+        <p className="z-30 font-serif font-bold text-2xl">Modern luxury villa house building</p>
+        <a className="cursor-pointer z-30 hover:underline" target="_blank" rel="noreferrer" href="https://sketchfab.com/3d-models/modern-luxury-villa-house-building-2a07a4a90ae54dd6bba3e33862b266ef">Source - Sketchfab</a>
+        <a className="z-30 hover:underline" href="https://sketchfab.com/saakbary64" target="_blank" rel="noreferrer">Author - Saeedakbari</a>
+        </div>
       </div>
       <div className="w-[46%] h-[550px] bg-slate-200 rounded-3xl">
         <Bunglow2Canvas></Bunglow2Canvas>
+        <div className="bg-slate-700 text-white -mt-28 flex items-center flex-col">
+        <p className="z-30 font-serif font-bold text-2xl">Modern luxury villa house building</p>
+        <a className="cursor-pointer z-30 hover:underline" target="_blank" rel="noreferrer" href="https://sketchfab.com/3d-models/modern-luxury-villa-house-building-2a07a4a90ae54dd6bba3e33862b266ef">Source - Sketchfab</a>
+        <a className="z-30 hover:underline" href="https://sketchfab.com/saakbary64" target="_blank" rel="noreferrer">Author - Saeedakbari</a>
+        </div>
       </div>
-      <div className="w-[46%] h-[550px] bg-slate-200 rounded-3xl"></div>
+      <div className="w-[46%] h-[550px] bg-slate-200 rounded-3xl">
+        <Bunglow3Canvas></Bunglow3Canvas>
+        <div className="bg-slate-700 text-white -mt-28 flex items-center flex-col">
+        <p className="z-30 font-serif font-bold text-2xl">Cozy Modern Living Room</p>
+        <a className="cursor-pointer z-30 hover:underline" target="_blank" rel="noreferrer" href="https://sketchfab.com/3d-models/cozy-modern-living-room-6a030bdb839e4e74bb58d7edb8f329e7">Source - Sketchfab</a>
+        <a className="z-30 hover:underline" href="https://sketchfab.com/dylanheyes" target="_blank" rel="noreferrer">Author - Dylanheyes</a>
+        </div>
+      </div>
       <div className="w-[46%] h-[550px] bg-slate-200 rounded-3xl"></div>
     </div>
   );
