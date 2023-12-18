@@ -39,9 +39,6 @@
 
 // export default Nav;
 
-
-
-
 // eslint-disable-next-line no-unused-vars
 // import React from "react";
 // import logo from "../assets/Logo.png";
@@ -75,9 +72,6 @@
 // };
 
 // export default Nav;
-
-
-
 
 import React, { useState } from "react";
 import ReactModal from "react-modal"; // Install and import ReactModal library
