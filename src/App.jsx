@@ -4,6 +4,7 @@ import Model from "./components/Model";
 import WorkCards from "./components/WorkCards";
 import Projects from "./components/Projects";
 import Cta from "./components/Cta";
+import Feedback from "./components/Feedback";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <WorkCards></WorkCards>
       <Projects></Projects>
       <Cta></Cta>
+      <Feedback></Feedback>
     </div>
   );
 }
