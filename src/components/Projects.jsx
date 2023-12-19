@@ -10,7 +10,7 @@ const Projects = () => {
     <div className="flex flex-wrap w-[1200px] gap-8 justify-between items-center mt-16">
       <div className="flex flex-col items-center gap-2 m-auto">
         <p
-          className="text-gray-800 text-center font-DM-Serif-Display text-5xl font-normal leading-5 tracking-wide"
+          className="text-gray-800 text-center font-serif text-5xl font-normal leading-5 tracking-wide"
           style={{ lineHeight: "125%", letterSpacing: "1px" }}
         >
           Follow Our Projects
