@@ -1,5 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
+import Interior from "../assets/Interior.jpg"
 
 const Cta = () => {
   return (
@@ -50,8 +51,8 @@ const Cta = () => {
       </div>
       <div className="w-full relative z-0">
         <img
-          className="rounded-3xl"
-          src="https://s3-alpha-sig.figma.com/img/1f8a/ebb2/d8e10f7f8c067f29ece3a917db6105c9?Expires=1703462400&Signature=XkXz~uc9h0CzDoh1I69eJnLEyleCtQxCLWuw-OLIxrKkfuGLAgt7vfHN2M4bDr3~DqV0lZf2c64sAb~Kd7euhhknb-0gJwWF1z-J1sGGbnbSaSvoBo3Kfs-WglVTPqQFMsgVLm-E-NQDSseHbxBAuPyLHVyIkOB22aWaO2UzZcF8LTcAXwnkFAed3ytMX8XD85IXOOJgY7wzUpg5NWQaKQKS-iw7j4WCG-pnOMc5j3qo8zON0TblEJ~VRWZ0-PD6wb3h8-JBoQCYcyis1zMK2BE14-9LLquZaMiLma6HAFX0ZafszBUdVNrr5M8EgMcZHQGr2fBmeWmGZDU3BnZBzg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+          className="rounded-3xl h-[800px] w-full object-fill"
+          src={Interior}
           alt="image"
         ></img>
       </div>
